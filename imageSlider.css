@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+img {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+button {
+    margin: 20px 10px 0px;
+    padding: 5px;
+    font-size: 18px;
+    background-color: aqua;
+}
+
+.container {
+    display: block;
+    margin: auto;
+    padding: 10px 20px 30px;
+    text-align: center;
+    background-color: antiquewhite;
+    max-width: 600px;
+}
