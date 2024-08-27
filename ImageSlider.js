@@ -1,7 +1,7 @@
-const images = [{name: "image1", location: "image1.png"},
-                {name: "image2", location: "image2.jpg"},
-                {name: "image3", location: "image3.png"},
-                {name: "image4", location: "image4.png"}] //images : names and locations
+const images = [{name: "image1", location: "/resources/images/image1.png"},
+                {name: "image2", location: "/resources/images/image2.jpg"},
+                {name: "image3", location: "/resources/images/image3.png"},
+                {name: "image4", location: "/resources/images/image4.png"}] //images : names and locations
 
 var imageSlide = document.getElementById('image');
 const imageName = document.getElementById('image-title');
